@@ -18,11 +18,11 @@ executive-level insights.
 ##  Business Objectives
 
 -   Monitor production volumes and capacity usage
--   Analyze defect rates and operational risks\
--   Evaluate workforce efficiency\
--   Understand revenue drivers by region, channel, and product\
--   Assess profitability through KPIs such as AOV, Profit Margin, ROI\
--   Identify seasonal patterns in demand\
+-   Analyze defect rates and operational risks
+-   Evaluate workforce efficiency
+-   Understand revenue drivers by region, channel, and product
+-   Assess profitability through KPIs such as AOV, Profit Margin, ROI
+-   Identify seasonal patterns in demand
 -   Detect optimization opportunities
 
 ------------------------------------------------------------------------
