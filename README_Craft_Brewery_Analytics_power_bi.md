@@ -33,7 +33,7 @@ executive-level insights.
 
 Interactive menu to navigate across all business domains.
 
-
+![Cover_Menu](images/Cover_Menu.png)
 
 ------------------------------------------------------------------------
 
