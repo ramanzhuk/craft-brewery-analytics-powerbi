@@ -45,7 +45,7 @@ Interactive menu to navigate across all business domains.
 -   Monthly production trend\
 -   Production by beer type
 
-
+![Production](images/Production.png)
 
 ------------------------------------------------------------------------
 
