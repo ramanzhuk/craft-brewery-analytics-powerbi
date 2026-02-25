@@ -17,7 +17,7 @@ executive-level insights.
 
 ##  Business Objectives
 
--   Monitor production volumes and capacity usage\
+-   Monitor production volumes and capacity usage
 -   Analyze defect rates and operational risks\
 -   Evaluate workforce efficiency\
 -   Understand revenue drivers by region, channel, and product\
