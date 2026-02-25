@@ -39,10 +39,10 @@ Interactive menu to navigate across all business domains.
 
 ###  Production
 
--   Total production volume\
--   Average batch size\
--   Remaining inventory\
--   Monthly production trend\
+-   Total production volume
+-   Average batch size
+-   Remaining inventory
+-   Monthly production trend
 -   Production by beer type
 
 ![Production](images/Production.png)
@@ -51,10 +51,10 @@ Interactive menu to navigate across all business domains.
 
 ###  Quality
 
--   Overall defect rate\
--   Defect volume\
--   Defect breakdown by type\
--   Defect rate by beer\
+-   Overall defect rate
+-   Defect volume
+-   Defect breakdown by type
+-   Defect rate by beer
 -   Quarterly waste trend
 
 ![Production](images/Quality.png)
@@ -63,9 +63,9 @@ Interactive menu to navigate across all business domains.
 
 ###  Workforce
 
--   Production volume by employee\
--   Defect rate by worker\
--   Experience vs defect analysis\
+-   Production volume by employee
+-   Defect rate by worker
+-   Experience vs defect analysis
 -   Quarterly performance comparison
 
 ![Production](images/Workers.png)
@@ -74,17 +74,17 @@ Interactive menu to navigate across all business domains.
 
 ###   Sales (2 Pages)
 
-Sales Overview: - Revenue by region\
-- Revenue by beer type\
-- Revenue by channel\
+Sales Overview: - Revenue by region
+- Revenue by beer type
+- Revenue by channel
 - Alcohol strength performance
 
 ![Production](images/Sales1.png)
 
 Sales & Volume Analysis: - Volume segmentation (Small / Medium / Large /
-Extra Large)\
-- Profit vs Cost by segment\
-- Revenue trend\
+Extra Large)
+- Profit vs Cost by segment
+- Revenue trend
 - AOV & Margin relationships
 
 ![Production](images/Sales2.png)
@@ -93,12 +93,12 @@ Extra Large)\
 
 ###  KPI & Finance
 
--   Total Revenue\
--   Total Cost\
--   Profit\
--   Profit Margin\
--   AOV\
--   Volume Gauge\
+-   Total Revenue
+-   Total Cost
+-   Profit
+-   Profit Margin
+-   AOV
+-   Volume Gauge
 -   Month-over-Month analysis
 
 ![Production](images/KPI.png)
@@ -109,10 +109,10 @@ Extra Large)\
 
 Executive conclusions including:
 
--   Strong financial performance (\~60% margin)\
--   Stable operations with low defect rate (1.56%)\
--   Clear seasonal demand patterns\
--   Revenue concentrated in high-volume clients\
+-   Strong financial performance (~60% margin)
+-   Stable operations with low defect rate (1.56%)
+-   Clear seasonal demand patterns
+-   Revenue concentrated in high-volume clients
 -   Optimization opportunities in production planning and discount
     strategy
 
@@ -122,13 +122,13 @@ Executive conclusions including:
 
 ##  Key KPIs
 
--   Total Revenue\
--   Total Profit\
--   Profit Margin (%)\
--   Average Order Value (AOV)\
--   ROI\
--   Defect Rate (%)\
--   Production Volume\
+-   Total Revenue
+-   Total Profit
+-   Profit Margin (%)
+-   Average Order Value (AOV)
+-   ROI
+-   Defect Rate (%)
+-   Production Volume
 -   Remaining Inventory
 
 ------------------------------------------------------------------------
@@ -146,9 +146,9 @@ Executive conclusions including:
 
 This project demonstrates:
 
--   Data modeling skills\
--   KPI design\
+-   Data modeling skills
+-   KPI design
 -   Business-oriented thinking\
--   Ability to translate data into executive insights\
--   Dashboard storytelling\
+-   Ability to translate data into executive insights
+-   Dashboard storytelling
 -   Multi-domain analytics (Production, Sales, Finance, Operations)
