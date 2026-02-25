@@ -57,7 +57,7 @@ Interactive menu to navigate across all business domains.
 -   Defect rate by beer\
 -   Quarterly waste trend
 
-
+![Production](images/Quality.png)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Interactive menu to navigate across all business domains.
 -   Experience vs defect analysis\
 -   Quarterly performance comparison
 
-
+![Production](images/Workers.png)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ Sales Overview: - Revenue by region\
 - Revenue by channel\
 - Alcohol strength performance
 
-
+![Production](images/Sales1.png)
 
 Sales & Volume Analysis: - Volume segmentation (Small / Medium / Large /
 Extra Large)\
@@ -87,7 +87,7 @@ Extra Large)\
 - Revenue trend\
 - AOV & Margin relationships
 
-
+![Production](images/Sales2.png)
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ Extra Large)\
 -   Volume Gauge\
 -   Month-over-Month analysis
 
-
+![Production](images/KPI.png)
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ Executive conclusions including:
 -   Optimization opportunities in production planning and discount
     strategy
 
-
+![Production](images/Summary.png)
 
 ------------------------------------------------------------------------
 
