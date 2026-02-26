@@ -1,5 +1,13 @@
-# Craft Brewery Analytics --- Power BI Business Report
+# Craft Brewery Analytics  Power BI Business Report
 
+
+##  Interactive Version
+
+📂 Download full Power BI file (.pbix):
+
+[Download Craft Brewery Report](./Craft_Brewery_Analytics_power_bi.pbix)
+
+------------------------------------------------------------------------
 ##  Project Overview
 
 This project presents a structured, multi-page Power BI business
@@ -12,6 +20,8 @@ financial KPIs interact to drive overall business performance.
 The report integrates multiple business domains into a unified
 analytical model and transforms raw operational data into
 executive-level insights.
+
+
 
 ------------------------------------------------------------------------
 
