@@ -3,7 +3,7 @@
 
 ##  Interactive Version
 
-📂 Download full Power BI file (.pbix):
+Download full Power BI file (.pbix):
 
 [Download Craft Brewery Report](./Craft_Brewery_Analytics_power_bi.pbix)
 
@@ -25,6 +25,15 @@ executive-level insights.
 
 ------------------------------------------------------------------------
 
+
+## Python Version of the Project
+
+The same business case was also implemented in Python using Jupyter Notebook for deeper data analysis.
+
+View the Python project here:
+[https://github.com/ramanzhuk/craft-brewery-analytics-python](https://github.com/ramanzhuk/craft-brewery-analytics-python)
+
+------------------------------------------------------------------------
 ##  Business Objectives
 
 -   Monitor production volumes and capacity usage
